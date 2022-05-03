@@ -1,0 +1,3 @@
+/home/user/Bureau/atmproject/webcppbackend/build/CMakeFiles/rebuild_cache.dir
+/home/user/Bureau/atmproject/webcppbackend/build/CMakeFiles/edit_cache.dir
+/home/user/Bureau/atmproject/webcppbackend/build/CMakeFiles/CalculatorAPI.dir
